@@ -1,0 +1,1 @@
+document.write("welcome to js land... </br> Happy Codding!");
